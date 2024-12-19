@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733738358 source:c:\users\naaqi\downloads\symplecalc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
